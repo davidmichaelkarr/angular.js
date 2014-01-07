@@ -13,7 +13,7 @@ Server-side validation is still necessary for a secure application.
 
 # Simple form
 The key directive in understanding two-way data-binding is {@link api/ng.directive:ngModel ngModel}.
-The `ngModel` directive provides the two-way data-binding by synchronizing the model to the view, as well as view to the model.
+The `ngModel` directive provides two-way data-binding by synchronizing the model to the view, as well as the view to the model.
 In addition it provides an {@link api/ng.directive:ngModel.NgModelController API} for other directives to augment its behavior.
 
 <doc:example>
